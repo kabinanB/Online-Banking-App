@@ -1,4 +1,4 @@
-package com.banking.banking_app;
+package com.banking.banking_app.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
